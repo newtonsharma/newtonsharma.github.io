@@ -102,8 +102,7 @@ I'm open to connecting with professionals, developers and cybersecurity enthusia
 
 - **Portfolio:** https://newtonsharma.github.io
 - **GitHub:** https://github.com/newtonsharma
-- **LinkedIn:** [Add your LinkedIn profile URL]
-- **Email:** [Add your professional email]
+
 
 ---
 
