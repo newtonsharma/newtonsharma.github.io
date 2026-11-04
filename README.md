@@ -9,37 +9,102 @@ A responsive personal portfolio built with plain HTML, CSS and JavaScript. No bu
 - `script.js` — mobile navigation and current-year footer
 - `favicon.svg` — browser tab icon
 
-## Before publishing
+# Hi, I'm Newton Sharma 👋
 
-Open `index.html` and update the contact links near the bottom:
+### Cybersecurity Graduate | Web Developer | Technology Enthusiast
 
-1. Replace `YOUR_EMAIL@example.com` with your public contact email.
-2. Replace the LinkedIn `href="#"` with your LinkedIn profile URL.
-3. Replace the GitHub `href="#"` with your GitHub profile URL.
+I'm a Cyber Security graduate from **Aalborg University, Copenhagen, Denmark**, with an academic background in computer science and previous experience in web development.
 
-Review the project descriptions and skill list. Keep only technologies and experience you are comfortable discussing. Add links to project repositories or write-ups when you have published them.
+I'm interested in building secure digital solutions and understanding how applications, networks and cloud environments can be protected against modern security threats.
 
-## Publish with GitHub Pages
+My academic journey has given me exposure to software security, network security, threat modelling, privacy-enhancing technologies and secure development practices. I also enjoy working with web technologies and continuously improving my programming skills.
 
-1. Sign in to GitHub using the username `newtonsharma` (or your chosen username).
-2. Create a **public** repository named exactly `newtonsharma.github.io`.
-3. Upload all files in this folder to the repository root. Make sure `index.html` is at the root, not inside another folder.
-4. In the repository, open **Settings → Pages**.
-5. Under **Build and deployment**, choose **Deploy from a branch**.
-6. Select branch **main** and folder **/(root)**, then save.
-7. Wait for the deployment to finish. Visit `https://newtonsharma.github.io`.
+## 🎓 Education
 
-GitHub Pages may take a few minutes to publish after the first setup or a new push.
+**Master's Degree in Cyber Security**  
+Aalborg University, Copenhagen, Denmark
 
-Official guide: https://docs.github.com/en/pages/quickstart
+**Bachelor's Degree in Computer Science and Information Technology**  
+Texas International College
 
-## Updating the website
+## 💻 Technical Skills
 
-Edit the relevant file locally or directly on GitHub, then commit the changes. GitHub Pages automatically rebuilds the site.
+**Web Development**
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- WordPress
 
-## Notes
+**Cybersecurity**
+- Application Security fundamentals
+- Software Security
+- Network Security fundamentals
+- Threat Modelling (STRIDE and LINDDUN)
+- Security Risk Analysis
+- OWASP security concepts
 
-- Hosting on GitHub Pages is free for public repositories on supported plans.
-- The `github.io` address is a free subdomain, not a separately owned `.com` domain.
-- This is a static website. Do not put passwords, API keys, private contact details or sensitive data in the repository.
-- Google Fonts are loaded from Google Fonts. The page remains readable with fallback fonts if they are unavailable.
+**Tools and Technologies**
+- Linux
+- Wireshark
+- Git and GitHub
+- Python (currently developing my practical skills)
+
+## 🚀 Featured Projects
+
+### 1. Evaluating Encryption Backdoors and Client-Side Scanning in Modern Data Access Frameworks
+**Master's Thesis – Aalborg University**
+
+Explored the balance between security and privacy in modern encrypted cloud ecosystems, focusing on encryption backdoors, client-side scanning and key escrow.
+
+Areas covered:
+- Encryption and privacy
+- STRIDE and LINDDUN threat modelling
+- Security and privacy implications
+- GDPR and relevant cybersecurity regulations
+
+### 2. Additive Secret Sharing-Based Distributed Average Consensus
+
+An academic project exploring privacy-preserving distributed computation using additive secret sharing.
+
+Areas covered:
+- Additive Secret Sharing
+- Secure Multi-Party Computation concepts
+- Distributed computation
+- Privacy-preserving techniques
+
+### 3. Web Development Projects
+
+Previous development work involving PHP, WordPress and frontend technologies.
+
+Projects included:
+- WordPress theme development
+- PHP-based web applications
+- Blog website development
+- E-commerce website development
+
+## 🎯 Current Interests
+
+I'm particularly interested in developing my knowledge and practical experience in:
+
+- Application Security
+- Secure Software Development
+- DevSecOps
+- Cloud Security
+- Network Security
+- Python for cybersecurity automation
+
+I believe in continuous learning and improving technical skills through practical projects and experimentation.
+
+## 🤝 Let's Connect
+
+I'm open to connecting with professionals, developers and cybersecurity enthusiasts, particularly in Denmark and across Europe.
+
+- **Portfolio:** https://newtonsharma.github.io
+- **GitHub:** https://github.com/newtonsharma
+- **LinkedIn:** [Add your LinkedIn profile URL]
+- **Email:** [Add your professional email]
+
+---
+
+*Thanks for visiting my GitHub profile! I'm always interested in learning, collaborating and exploring new technologies.*
